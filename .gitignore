@@ -16,3 +16,6 @@ pipelines/state/learned_model_state.json
 .env
 .env.*
 !.env.example
+PUBLISH.sh
+PUSH_SURFACE.sh
+.push_surface*
