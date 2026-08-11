@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/TheFirstPierre/agentic-osint-portfolio/schemas/handoff.schema.json",
+  "$id": "https://github.com/TheFirstPierre/hierarchical-agent-systems/schemas/handoff.schema.json",
   "title": "ZeroTrustHandoffPackage",
   "type": "object",
   "additionalProperties": false,
